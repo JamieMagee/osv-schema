@@ -1,0 +1,8 @@
+[MASTER]
+ignore=testdata
+
+[MESSAGES CONTROL]
+disable=missing-module-docstring
+
+[FORMAT]
+max-line-length=100
